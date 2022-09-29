@@ -14,3 +14,4 @@ def dec2bin(numero_decimal, numero_bits):
     return numero_binario
 
 print("a shuparla")
+print("mejor no")
